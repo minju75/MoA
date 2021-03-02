@@ -65,7 +65,7 @@ MoA'로 'Make Of teAm'의 스펠링을 따서 팀을 구성한다라는 의미�
 
 ## 사용기술 스택
 
-![techStack](C:\Users\multicampus\Desktop\포트폴리오\images\techStack.png)
+![techStack](images/techStack.png)
 
 백엔드에서는 spring과 MySQL을 핵심적으로 이용해 개발을 진행하였고 프론트엔드에서는 Vue를 기반으로 Vuetify, Node.js, HTML, CSS를 이용해 개발을 진행하였습니다. 
 
@@ -73,7 +73,7 @@ MoA'로 'Make Of teAm'의 스펠링을 따서 팀을 구성한다라는 의미�
 
 ## 프로젝트 구성원 소개
 
-![team_members](C:\Users\multicampus\Desktop\포트폴리오\images\team_members.png)
+![team_members](images/team_members.png)
 
 
 
@@ -81,7 +81,7 @@ MoA'로 'Make Of teAm'의 스펠링을 따서 팀을 구성한다라는 의미�
 
 ## MoA 개발일정
 
-![개발일정](C:\Users\multicampus\Desktop\포트폴리오\images\개발일정.JPG)
+![개발일정](images/개발일정.JPG)
 
 저희 팀은 많은 회의를 거쳐 서비스를 기획하였으며 개발에 앞서 와이어프레임을 제작하여 
 제공하고자 하는 서비스를 보다 명확하게 진행할 수 있도록 하고자 하였습니다. 이렇게 제작한 와이어프레임을 기반으로 보다 효율적인 데이터베이스를 설계할 수 있었습니다. 후에 본격적으로 db에 맞게 백엔드를 구현하였고 스웨거를 통해서 프론트엔드와 유연하게 연동하였습니다. 그리고 최종적으로 사용자 측면에서 불편함을 최소화하기 위해서최적화를 거친 후 편의성을 극대화 할 수 있는 UI, UX를 구축하였습니다. 
@@ -98,7 +98,7 @@ frammer를 이용해서 페이지 제작전의 기본적인 틀을 구성하였�
 
 로그인 밑에는 비밀번호 찾기와 회원가입 버튼을 구성해놓아 언제 어디서나 회원가입, 비밀번호 찾기가 가능하게 하였습니다. 
 
-![로그인](C:\Users\multicampus\Desktop\포트폴리오\images\wireframe\로그인.png)
+![로그인](images/wireframe/로그인.png)
 
 
 
@@ -106,7 +106,7 @@ frammer를 이용해서 페이지 제작전의 기본적인 틀을 구성하였�
 
 비밀번호 찾기 페이지는 ID 를 입력하면 핸드폰 인증이나 이메일 인증으로 비밀번호를 찾을 수 있도록 설정해두었습니다. 
 
-![비밀번호찾기](C:\Users\multicampus\Desktop\포트폴리오\images\wireframe\비밀번호찾기.png)
+![비밀번호찾기](images/wireframe/비밀번호찾기.png)
 
 
 
@@ -114,7 +114,7 @@ frammer를 이용해서 페이지 제작전의 기본적인 틀을 구성하였�
 
 회원가입 페이지에서는 이름, 나이, 전공과 같은 기초적인 정보들을 입력해야하며 이는 추후에 추가할 부분입니다. 
 
-![회원가입](C:\Users\multicampus\Desktop\포트폴리오\images\wireframe\회원가입.png)
+![회원가입](images/wireframe/회원가입.png)
 
 
 
@@ -122,7 +122,7 @@ frammer를 이용해서 페이지 제작전의 기본적인 틀을 구성하였�
 
 사이트의 핵심이 되는 메인페이지입니다. 메인페이지에서는 프로젝트의 카테고리를 선택할 수 있는 카테고리 목록이 들어가며 원하는 프로젝트나 카테고리의 키워드를 검색할 수 있는 검색창 또한 들어갈 수 있도록 구성하였습니다. 카테고리의 밑에는 현재 진행중인 펀딩들의 목록이 뜨고 그 밑으로는 분야별 멘토들의 랭킹을 확인할 수 있도록 구성하였습니다. 
 
-![메인페이지](C:\Users\multicampus\Desktop\포트폴리오\images\wireframe\메인페이지.png)
+![메인페이지](images/wireframe/메인페이지.png)
 
 
 
