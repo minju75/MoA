@@ -414,3 +414,11 @@ MoA 에서는 챗봇을 통해 실시간으로 질문을 하고 답변을 받을
 
 ![team_members](images/team_members.png)
 
+
+
+
+
+## MoA의 시연영상과 인터뷰 확인하기!
+
+https://www.youtube.com/watch?v=5SLSNov_uyY&t=2s
+
