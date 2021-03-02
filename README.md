@@ -2,7 +2,7 @@
 
 
 
-![logo](C:\Users\multicampus\Desktop\포트폴리오\images\logo.png)
+![logo](images\logo.png)
 
 MoA'로 'Make Of teAm'의 스펠링을 따서 팀을 구성한다라는 의미와 한글 발음으로는 '모아'로 모으다 라는 의미를 함축적인 의미를 가진 '모아 프로젝트'를 진행하게 되었습니다. 
 
